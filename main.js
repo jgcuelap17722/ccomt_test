@@ -2,7 +2,6 @@
 // mas cambios por hacer
 
 // una dependencia
-// otra dependencia
 
 // desarrollo
 
